@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012258819883",
+    "project_id": "techniquick-9b84c",
+    "storage_bucket": "techniquick-9b84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012258819883:android:caecdd379be62629133f6e",
+        "android_client_info": {
+          "package_name": "com.example.techni_quick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012258819883-o7q90lgpnolu56md632ca0571p4spv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Tbh3kX1YP8pCdKISmLv7OezxhcrlU4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012258819883-o7q90lgpnolu56md632ca0571p4spv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
